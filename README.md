@@ -1,9 +1,24 @@
 # Deep Learning Session
 
-This repository contains teaching materials (Lecture slides and notebook) for the **[Workshop on Satellite Data for Agricultural and Environmental Economics]**, organized for doctoral students. This particular module focuses on applying deep learning techniques to map tea plantations at the foot of Mount Kenya using satellite imagery and Python (via Google Colaboratory).
+# Tea Mapping in Kenya with Deep Learning
 
-### Module Focus: Tea Mapping in Kenya
-- **Objective**: Introduce how deep learning (CNNs) can be applied to classify and map agricultural crops.
-- **Case Study**: Tea plantations in Kenya.
-- **Data**: Sentinel-2 imagery and associated training labels.
-- **Tool**: Google Colab (no installation needed).
+This Colab-based notebook is part of a PhD workshop on remote sensing and deep learning. It demonstrates how to map tea plantations at the foot of Mount Kenya using satellite imagery and a U-Net model in PyTorch.
+
+## What it covers
+- Load raster and vector geospatial data with `torchgeo`
+- Apply augmentations (`albumentations`)
+- Train a U-Net (ResNet-18) for binary segmentation (tea / no tea)
+- Evaluate with accuracy and Intersection over Union
+- Save metrics and best model
+
+## Run it
+[Open in Google Colab](https://colab.research.google.com/github/yourusername/yourrepo/blob/main/tea-mapping.ipynb)
+
+## 📁 Data
+Ensure you upload the `.tif` (satellite image) and `.gpkg` (training labels) files in `/content/` before running the Google Colaboratory.
+
+## Instructors
+Developed for a PhD workshop by David Wuepper, Lisa Biber-Freudenberger, Hadi, and Wyclife Agumba Oluoch.
+
+## License
+MIT License.

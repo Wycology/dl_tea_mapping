@@ -20,8 +20,9 @@ Ensure you upload the `.tif` (satellite image) and `.gpkg` (training labels) fil
 ## Instructors
 Developed for a PhD workshop by David Wuepper, Lisa Biber-Freudenberger, Hadi, and Wyclife Agumba Oluoch.
 
-![Land Economics Group](https://www.ilr1.uni-bonn.de/en/research/research-groups/land-economics)
+[Land Economics Group](https://www.ilr1.uni-bonn.de/en/research/research-groups/land-economics)
 
-![Center for Development Research](https://www.zef.de/zefhome.html)
+[Center for Development Research](https://www.zef.de/zefhome.html)
+
 ## License
 MIT License.

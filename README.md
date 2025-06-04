@@ -12,7 +12,7 @@ This Colab-based notebook is part of a PhD workshop on remote sensing and deep l
 - Save metrics and best model
 
 ## Run it
-[Open in Google Colab](https://colab.research.google.com/github/yourusername/yourrepo/blob/main/tea-mapping.ipynb)
+[Open in Google Colab](https://colab.research.google.com/github/Wycology/dl_tea_mapping/blob/main/dl_tea4.ipynb)
 
 ## 📁 Data
 Ensure you upload the `.tif` (satellite image) and `.gpkg` (training labels) files in `/content/` before running the Google Colaboratory.

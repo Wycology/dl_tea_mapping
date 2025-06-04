@@ -2,7 +2,7 @@
 
 # Tea Mapping in Kenya with Deep Learning
 
-This Colab-based notebook is part of a PhD workshop on remote sensing and deep learning. It demonstrates how to map tea plantations at the foot of Mount Kenya using satellite imagery and a U-Net model in PyTorch.
+This Colab-based notebook is part of a PhD workshop, [Satellite Data in Agricultural and Environmental Economics](https://www.agraroekonomik.de/M6900-Wuepper-Satellite%20Data%20in%20Agricultural%20and%20Environmental%20Economics.html). It demonstrates how to map tea plantations at the foot of Mount Kenya using satellite imagery and a U-Net model in PyTorch.
 
 ## What it covers
 - Load raster and vector geospatial data with `torchgeo`

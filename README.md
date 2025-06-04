@@ -14,7 +14,7 @@ This Colab-based notebook is part of a PhD workshop, [Satellite Data in Agricult
 ## Run it
 [Open in Google Colab](https://colab.research.google.com/github/Wycology/dl_tea_mapping/blob/main/dl_tea4.ipynb)
 
-## 📁 Data
+## Data
 Ensure you upload the `.tif` (satellite image) and `.gpkg` (training labels) files in `/content/` before running the Google Colaboratory.
 
 ## Instructors
